@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body >
+    <div class="main" style="margin-left:20%; margin-right:20%; background-color:white; padding:20px; border-radius:20px;">
+        <h1>List of contacts</h1>
+        <div class="menu" style="float:left">
+            <div class="list-group">
+                <a class="list-group-item" asp-controller="people" asp-action="Index">Index</a>
+                <a class="list-group-item" asp-controller="people" asp-action="create">Create</a>
+            </div>
+        </div>
+        <div class="content" style="margin-left:20%">
+            @RenderBody()
+        </div>
+
+        <div class="footer" style="margin-top:30px;">&copy; Simon, Fredrik, Elin</div>
+    </div>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.0.min.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/jquery.validate.min.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>
+

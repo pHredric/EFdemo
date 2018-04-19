@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts\Contacts\Contacts\bin\Debug\netcoreapp2.0\Contacts.deps.json
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts\Contacts\Contacts\bin\Debug\netcoreapp2.0\Contacts.runtimeconfig.json
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts\Contacts\Contacts\bin\Debug\netcoreapp2.0\Contacts.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts\Contacts\Contacts\bin\Debug\netcoreapp2.0\Contacts.dll
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts\Contacts\Contacts\bin\Debug\netcoreapp2.0\Contacts.pdb
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts\Contacts\Contacts\obj\Debug\netcoreapp2.0\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts\Contacts\Contacts\obj\Debug\netcoreapp2.0\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts\Contacts\Contacts\obj\Debug\netcoreapp2.0\Contacts.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts\Contacts\Contacts\obj\Debug\netcoreapp2.0\Contacts.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts\Contacts\Contacts\obj\Debug\netcoreapp2.0\Contacts.dll
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts\Contacts\Contacts\obj\Debug\netcoreapp2.0\Contacts.pdb
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts - EF\Contacts\Contacts\bin\Debug\netcoreapp2.0\Contacts.deps.json
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts - EF\Contacts\Contacts\bin\Debug\netcoreapp2.0\Contacts.runtimeconfig.json
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts - EF\Contacts\Contacts\bin\Debug\netcoreapp2.0\Contacts.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts - EF\Contacts\Contacts\bin\Debug\netcoreapp2.0\Contacts.dll
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts - EF\Contacts\Contacts\bin\Debug\netcoreapp2.0\Contacts.pdb
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts - EF\Contacts\Contacts\obj\Debug\netcoreapp2.0\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts - EF\Contacts\Contacts\obj\Debug\netcoreapp2.0\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts - EF\Contacts\Contacts\obj\Debug\netcoreapp2.0\Contacts.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts - EF\Contacts\Contacts\obj\Debug\netcoreapp2.0\Contacts.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts - EF\Contacts\Contacts\obj\Debug\netcoreapp2.0\Contacts.dll
+C:\Users\Administrator\Desktop\Academy\Project\MVC\Contacts - EF\Contacts\Contacts\obj\Debug\netcoreapp2.0\Contacts.pdb

@@ -1,0 +1,9 @@
+﻿@model Contact[]
+    <div class="list-group">
+        @foreach (var person in Model)
+        {
+            <a class="list-group-item" asp-controller="people" asp-action="details" asp-route-id="@person.Id">@Html.Partial("_personBox", person)</a>
+        }
+    </div>
+
+
